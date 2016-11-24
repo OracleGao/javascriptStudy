@@ -1,3 +1,6 @@
+#es6/es2015 study
+demo base on nodejs 6.9.1
+
 #Arrow Functions
 
 var braveNewWorld = function( world ) {
