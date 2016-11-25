@@ -22,3 +22,7 @@ This one still confuses me, but a good rule of thumb is to ask whether or not yo
 const braveNewWorld = ( world ) => {
   console.log( `Welcome to ${world}` ); 
 };
+
+Reference:
+   generator: https://davidwalsh.name/es6-generators
+
