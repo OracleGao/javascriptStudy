@@ -27,5 +27,6 @@ const braveNewWorld = ( world ) => {
 };
 
 Reference:
+   es6: http://es6-features.org/
    generator: https://davidwalsh.name/es6-generators
 
