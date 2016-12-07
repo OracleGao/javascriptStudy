@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-let get = require('./http-get-module');
+let get = require('./httpGetModule');
 let promise = get(({
   host: '10.1.10.20',
   port: 8888,
