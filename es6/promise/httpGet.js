@@ -15,11 +15,3 @@ promise.then((res, body) => {
   }
   return {res: res, body: body};
 }, err => console.log(err));
-
-.then(({res: res, body: body}) => {
-  console.log(res.statusCode);
-  console.log(res.headers);
-  if (body) {
-    console.log(body);
-  }
-}, err => console.log(err));

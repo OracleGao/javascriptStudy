@@ -6,7 +6,7 @@ promise.then(val => {
   return val + 2;
 }).then(val => console.log(val));
 
-let get = require('./http-get-module');
+let get = require('./httpGetModule');
 get(({
   host: '10.1.10.20',
   port: 8888,
